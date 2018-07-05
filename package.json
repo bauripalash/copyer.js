@@ -1,0 +1,23 @@
+{
+  "name": "copyer",
+  "version": "1.0.0",
+  "description": "simple minimal clipboard copy-paste library",
+  "main": "copyer.min.js",
+  "scripts": {
+    "start": "uglifyjs ./src/copyer.js --comments --mangle>./dist/copyer.js"
+  },
+  "keywords": [
+    "clipboard",
+    "paste",
+    "copy",
+    "javascript",
+    "minimal",
+    "lightweight"
+  ],
+  "author": "Palash Bauri",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.4.3"
+  }
+}

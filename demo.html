@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script src="./src/copyer.js"></script>
+    </head>
+    <body>
+        <h1> Welcome Copyer.JS </h1>
+        <p id="hm">Hello Man</p>
+        <button onclick="copym()">Copy Above Text</button>
+        <hr>
+        <input id="ib" type="text" placeholder="type something">
+        <button onclick="copyib()"> Copy Text From Box </button>
+    </body>
+    <script>
+        function copym(){
+            copyer("hm");
+            alert("Copied : '" + document.getElementById("hm").innerHTML + "' to clipboard");
+        }
+        function copyib(){
+            copyer("ib")
+            alert("Copied : '" + document.getElementById("ib").value + "' to clipboard");
+        }
+    </script>
+</html>
