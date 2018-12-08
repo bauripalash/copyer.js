@@ -38,4 +38,4 @@ npm start
 
 <hr>
 
-Crafted with Love by [Palash Bauri](https://palash.tk) & [**xedtech**](https://xedtech.tk) | Licensed Under MIT
+Crafted with Love by [Palash Bauri](https://palash.tk) | Licensed Under MIT
