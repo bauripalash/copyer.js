@@ -32,8 +32,8 @@ you can use button or other methods to call the function,
 execute these commands,
 
 ```sh
-npm install
-npm start
+npm install or yarn
+npm start or yarn run start
 ```
 
 <hr>
