@@ -38,4 +38,6 @@ npm start or yarn run start
 
 <hr>
 
-HandCrafted with Love by [Palash Bauri](https://palash.tk) | Licensed Under MIT
+HandCrafted with Love by [Palash Bauri](https://palash.tk) 
+
+Licensed Under MIT
