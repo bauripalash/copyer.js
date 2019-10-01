@@ -1,4 +1,4 @@
-# Copyer.JS
+# 📋 Copyer.JS
 ### Simple , Clipboard javascript library for copying things easily with ease.
 
 ## How To Use 
@@ -27,7 +27,7 @@ you can use button or other methods to call the function,
 </script>
 ```
 
-## Build Yourself
+## 🛠️ Build Yourself
 
 execute these commands,
 
@@ -38,6 +38,6 @@ npm start or yarn run start
 
 <hr>
 
-HandCrafted with Love by [Palash Bauri](https://palash.tk) 
+HandCrafted with ♥️ by [Palash Bauri](https://palash.tk) 
 
 Licensed Under MIT
